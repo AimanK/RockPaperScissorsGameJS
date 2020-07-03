@@ -14,7 +14,7 @@ let playerScore = 0;
 
 
 /**
- * Plays a round of rock, paper, sicissors based on the input from the user and the computers randomized choice from the function computerPlay() and increments the scores accordingly
+ * Plays a round of rock, paper, scissors based on the input from the user and the computers randomized choice from the function computerPlay() and increments the scores accordingly
  */
 function playRound(playerSelect, computerSelect) {
 
